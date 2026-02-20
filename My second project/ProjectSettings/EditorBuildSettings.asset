@@ -4,7 +4,19 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/03 prefab+marcador.unity
+    guid: ea14d213c3f69744f8edfdccd3db6425
+  - enabled: 0
+    path: Assets/Scenes/05 ImageTracking 2.unity
+    guid: 2ce8257f83f1bfc3abb5fb7369d5eda7
+  - enabled: 1
+    path: Assets/Scenes/09 ImageTracking Pruebas.unity
+    guid: 6b25129e31d4003d8b850d19c94cc1a1
+  - enabled: 0
+    path: Assets/Scenes/01 Tigre.unity
+    guid: fa9dcec44d49290b299deb5ed2f36dbf
   m_configObjects:
     UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: e71db592d02263595b109e421268b1e5, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
